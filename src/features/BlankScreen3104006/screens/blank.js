@@ -36,7 +36,7 @@ export class _Blank extends React.Component {
       <Button
         textStyle={{
           fontSize: 16,
-          color: "#b81e1e",
+          color: "#ffffff",
           textAlign: "center",
           fontFamily: "Montserrat-Bold"
         }}
@@ -123,7 +123,7 @@ export default Blank = withStyles(_Blank, theme => ({
     paddingBottom: 5,
     overflow: "visible",
     fontSize: 16,
-    color: "#b81e1e",
+    color: "#ffffff",
     backgroundColor: "#3366FF",
     fontFamily: "Montserrat-Bold",
     borderColor: "#000000",
